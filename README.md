@@ -8,3 +8,13 @@ The aim of this project is to develop a multiplayer Virtual Reality Painting app
 ●  Oculus Unity Integration Software<br/>
 ●  Steam VR Software<br/>
 ●  2 - High-end VR Ready Computer<br/>
+
+
+
+#### Authors:
+
+| Name | github handle |
+| ---- | ------ |
+| Jatin Dawar | [@jatin008](https://github.com/jatin008) |
+| Prem Raheja     | [@prem1409](https://github.com/prem1409) |
+| Utkarsh Vashisth     | [@uvashisth](https://github.com/uvashisth) |
